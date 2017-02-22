@@ -1,1 +1,16 @@
-theme: jekyll-theme-dinky
+title: PV Developer Docs
+email: contato@pagueveloz.com.br
+description: >
+  Documentação da API REST da PagueVeloz
+baseurl: ""
+url: "https://pagueveloz.github.io/"
+twitter_username: pagueveloz
+github_username:  pagueveloz
+repository: pagueveloz/pagueveloz.github.io
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
